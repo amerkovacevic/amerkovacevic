@@ -7,7 +7,6 @@ University of Missouri - Saint Louis
 React JS | Java | SQL | C++ | Apple Certified
 
 - Entry level programmer
-- Interested in front end development using React JS and CSS
 
 Contact information
 -------------------
