@@ -4,7 +4,7 @@ Bachelor of Science in Information Systems and Technology with minor in Cybersec
 
 University of Missouri - Saint Louis
 
-React JS | Java | SQL | C++ | Apple Certified
+React JS | Java | SQL | C++ | Python
 
 - Entry level programmer
 
