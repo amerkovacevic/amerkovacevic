@@ -1,13 +1,14 @@
 Amer Kovacevic
--------------------
-Bachelor of Science in Information Systems and Technology with minor in Cybersecurity
 
-University of Missouri - Saint Louis
+Bachelor of Science in Information Systems and Technology with a minor in Cybersecurity
+University of Missouri – Saint Louis
 
-React JS | Java | SQL | C++ | Python
+amerkovacevic.com
 
-- Entry level programmer
+⸻
 
-Contact information
--------------------
-amerkovacevic99@gmail.com | https://www.linkedin.com/in/amer-kovacevic-ab6106203/
+About This GitHub
+
+All projects and code in this repository are my own personal work.
+They are created for learning, experimentation, and side projects.
+Nothing here should be interpreted as representing or being affiliated with my employer in any way.
